@@ -94,7 +94,7 @@ export default function ThankYouPage() {
               <div>
                 <h4 className="font-bold text-sm text-slate-900">Free Attorney Consultation</h4>
                 <p className="text-xs sm:text-sm text-gray-600">
-                  You will speak directly with an experienced personal injury attorney who will explain the maximum compensation value of your claim.
+                  You will speak directly with an accident attorney to evaluate your claim and discuss your legal options.
                 </p>
               </div>
             </div>

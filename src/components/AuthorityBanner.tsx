@@ -14,7 +14,7 @@ export default function AuthorityBanner() {
     <section className="authority-banner py-8 bg-white border-y border-slate-200 shadow-sm">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
         <p className="text-xs uppercase font-extrabold tracking-widest text-slate-400 mb-6">
-          Seen &amp; Trusted on National News Networks
+          Seen &amp; Trusted on Leading News Networks
         </p>
         <div className="flex flex-wrap items-center justify-center gap-8 sm:gap-14 lg:gap-20">
           {logos.map((logo) => (

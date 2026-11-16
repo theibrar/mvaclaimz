@@ -76,8 +76,7 @@ export default function PrivacyPage() {
                 related to your motor vehicle accident claim.
               </li>
               <li>
-                Connect you with qualified, licensed attorneys who specialize in
-                motor vehicle accident cases in your area.
+                Connect with an accident attorney in your area.
               </li>
               <li>Communicate with you about your claim status and our services.</li>
               <li>

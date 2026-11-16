@@ -44,8 +44,7 @@ export default function TermsPage() {
               determine whether they may qualify for legal representation. We
               are a legal advertising service — we are not a law firm and do not
               provide legal advice. Our service connects qualified individuals
-              with licensed attorneys who specialize in motor vehicle accident
-              cases.
+              with an accident attorney.
             </p>
           </section>
 

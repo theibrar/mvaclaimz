@@ -46,7 +46,7 @@ export default function CaseTypesSection() {
           </h2>
           <div className="title-underline" />
           <p className="text-slate-600 text-base sm:text-lg max-w-2xl mx-auto">
-            Our network connects you with personal injury attorneys covering every motor vehicle accident category.
+            Connect with an accident attorney for every motor vehicle accident category.
           </p>
         </div>
 
