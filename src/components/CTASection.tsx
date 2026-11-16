@@ -8,7 +8,7 @@ export default function CTASection() {
           Ready to Get the Compensation You Deserve?
         </h2>
         <p className="text-base sm:text-lg text-slate-200 mb-8 max-w-2xl mx-auto opacity-90">
-          Start your free case evaluation nationwide today with zero upfront costs.
+          Start your free case evaluation today with zero upfront costs.
         </p>
         <a
           href="#home"

@@ -15,7 +15,7 @@ export default function CaseTypesSection() {
     },
     {
       title: 'Motorcycle Accidents',
-      desc: 'Specialized trial representation for high-impact motorcycle injury claims against motorists failing to yield or look twice.',
+      desc: 'Dedicated trial representation for high-impact motorcycle injury claims against motorists failing to yield or look twice.',
       img: '/img/mva_accident_scene_1774460139676.png',
     },
     {
@@ -46,7 +46,7 @@ export default function CaseTypesSection() {
           </h2>
           <div className="title-underline" />
           <p className="text-slate-600 text-base sm:text-lg max-w-2xl mx-auto">
-            Our nationwide network of specialized personal injury attorneys covers every motor vehicle accident category.
+            Our network connects you with personal injury attorneys covering every motor vehicle accident category.
           </p>
         </div>
 

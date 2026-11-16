@@ -23,7 +23,7 @@ export default function PartnersPage() {
       name: 'Legal Leadz LLC',
       role: 'Legal Marketing & Attorney Network Partner',
       site: '#',
-      details: 'Connects verified claimants with licensed trial attorneys across all 50 states.',
+      details: 'Connects verified claimants with licensed trial attorneys.',
     },
     {
       name: 'HQ Intake.com, LLC',
@@ -32,7 +32,7 @@ export default function PartnersPage() {
       details: 'Provides 24/7 telephonic customer support and case qualification assistance.',
     },
     {
-      name: 'Nationwide Personal Injury Trial Firms',
+      name: 'Independent Personal Injury Law Firms',
       role: 'Licensed Bar Members & Co-Counsel Network',
       site: '#',
       details: 'Independent law firms licensed in your jurisdiction that represent claimants on a contingency fee basis.',

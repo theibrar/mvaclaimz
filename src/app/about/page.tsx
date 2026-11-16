@@ -1,8 +1,8 @@
 import Link from 'next/link';
 
 export const metadata = {
-  title: 'About Us | MVA Claimz — Nationwide Motor Vehicle Legal Network',
-  description: 'Learn how MVA Claimz connects auto accident victims with premier personal injury trial lawyers nationwide with $0 upfront costs.',
+  title: 'About Us | MVA Claimz — Motor Vehicle Legal Network',
+  description: 'Learn how MVA Claimz connects auto accident victims with dedicated personal injury trial lawyers with $0 upfront costs.',
 };
 
 export default function AboutPage() {
@@ -19,7 +19,7 @@ export default function AboutPage() {
             Leveling the Playing Field for Accident Victims
           </h1>
           <p className="text-base sm:text-lg text-gray-600 max-w-2xl mx-auto leading-relaxed">
-            When a car crash disrupts your life, dealing with multi-billion-dollar insurance companies shouldn&apos;t be your burden. MVA Claimz connects you with fearless attorneys dedicated to maximizing your recovery.
+            When a car crash disrupts your life, dealing with insurance companies shouldn&apos;t be your burden. MVA Claimz connects you with an accident attorney dedicated to your legal rights.
           </p>
         </div>
 
@@ -29,10 +29,10 @@ export default function AboutPage() {
             Who We Are
           </h2>
           <p>
-            <strong>MVA Claimz</strong> (mvaclaimz.com) is a nationwide legal referral and claim evaluation service operated to protect the rights of motorists, passengers, bicyclists, and pedestrians injured in motor vehicle collisions.
+            <strong>MVA Claimz</strong> (mvaclaimz.com) is a legal referral and claim evaluation service operated to protect the rights of motorists, passengers, bicyclists, and pedestrians injured in motor vehicle collisions.
           </p>
           <p>
-            Too often, accident victims settle for pennies on the dollar because insurance adjusters use aggressive delay-and-deny tactics. Our mission is to ensure every injured individual has access to elite personal injury legal counsel regardless of their financial situation.
+            Too often, accident victims settle for less because insurance adjusters use aggressive tactics. Our mission is to ensure every injured individual has access to dedicated personal injury legal counsel regardless of their financial situation.
           </p>
 
           <h3 className="text-xl font-bold text-slate-900 pt-4">
@@ -42,13 +42,13 @@ export default function AboutPage() {
             <div className="bg-slate-50 p-5 rounded-2xl border border-gray-100">
               <div className="text-blue-600 font-bold text-lg mb-1">1. $0 Upfront Cost</div>
               <p className="text-sm text-gray-600">
-                You never pay a dime out of pocket. Our partner attorneys operate exclusively on contingency: no win, no fee.
+                You never pay a dime out of pocket. Our partner attorneys operate on contingency: no win, no fee.
               </p>
             </div>
             <div className="bg-slate-50 p-5 rounded-2xl border border-gray-100">
-              <div className="text-blue-600 font-bold text-lg mb-1">2. Top 1% Trial Lawyers</div>
+              <div className="text-blue-600 font-bold text-lg mb-1">2. Proven Trial Lawyers</div>
               <p className="text-sm text-gray-600">
-                We partner with proven trial lawyers who have recovered millions and aren&apos;t afraid to take greedy insurers to court.
+                We connect you with attorneys who have litigation experience and aren&apos;t afraid to take insurers to court.
               </p>
             </div>
             <div className="bg-slate-50 p-5 rounded-2xl border border-gray-100">
@@ -58,9 +58,9 @@ export default function AboutPage() {
               </p>
             </div>
             <div className="bg-slate-50 p-5 rounded-2xl border border-gray-100">
-              <div className="text-blue-600 font-bold text-lg mb-1">4. Nationwide Coverage</div>
+              <div className="text-blue-600 font-bold text-lg mb-1">4. Dedicated Representation</div>
               <p className="text-sm text-gray-600">
-                From Texas to California to Florida, our legal partners understand specific state statutes and local courtroom dynamics.
+                Our legal partners understand applicable state statutes, local court rules, and trial dynamics.
               </p>
             </div>
           </div>
@@ -69,15 +69,15 @@ export default function AboutPage() {
         {/* CTA */}
         <div className="bg-gradient-to-r from-[#1B2A4A] to-[#2563EB] text-white rounded-3xl p-8 sm:p-12 text-center space-y-6 shadow-xl">
           <h2 className="text-2xl sm:text-3xl font-extrabold">
-            Ready to Find Out What Your Claim is Worth?
+            Ready to Check Your Legal Options?
           </h2>
           <p className="text-sm sm:text-base text-blue-100 max-w-xl mx-auto">
-            Take 2 minutes to complete our free online evaluation and protect your legal rights before the statute of limitations expires.
+            Take 2 minutes to complete our free online evaluation and protect your legal rights before statutes of limitation expire.
           </p>
           <div>
             <Link
               href="/#claim-form"
-              className="inline-flex items-center gap-2 bg-amber-500 hover:bg-amber-600 text-white font-extrabold text-lg px-8 py-4 rounded-2xl shadow-lg transition"
+              className="inline-flex items-center gap-2 bg-[#C7FD0D] hover:bg-[#b0e00b] text-[#0C1E36] font-extrabold text-lg px-8 py-4 rounded-2xl shadow-lg transition"
             >
               Start Free Evaluation Now
             </Link>

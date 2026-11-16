@@ -76,7 +76,7 @@ export default function ContactPage() {
                 <p className="text-sm font-semibold text-white">
                   24 Hours a Day • 7 Days a Week
                 </p>
-                <p className="text-xs text-blue-200 mt-1">Nationwide intake routing</p>
+                <p className="text-xs text-blue-200 mt-1">Direct intake routing</p>
               </div>
 
               <div>

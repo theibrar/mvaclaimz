@@ -12,7 +12,6 @@ export default function Header() {
     { label: 'Why Us', href: '#why-us' },
     { label: 'Case Types', href: '#cases' },
     { label: 'Process', href: '#how-it-works' },
-    { label: 'Results', href: '#results' },
     { label: 'FAQ', href: '#faq' },
   ];
 

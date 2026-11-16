@@ -29,7 +29,7 @@ export default function Footer() {
               />
             </Link>
             <p className="text-xs sm:text-sm text-slate-400 leading-relaxed pr-4">
-              MVA Claimz is a nationwide legal claim evaluation portal connecting motor vehicle accident victims with qualified personal injury trial attorneys. Our mission is to ensure every victim has access to top-tier legal representation with zero upfront costs.
+              MVA Claimz is a legal claim evaluation portal connecting motor vehicle accident victims with qualified personal injury attorneys. Our mission is to ensure accident victims have access to dedicated legal counsel with zero upfront costs.
             </p>
           </div>
 
@@ -52,7 +52,7 @@ export default function Footer() {
           {/* Contact Us (4 cols) */}
           <div className="lg:col-span-4">
             <h5 className="footer-heading text-white font-extrabold text-sm uppercase tracking-wider mb-5 relative inline-block">
-              Contact &amp; Coverage
+              Contact &amp; Support
             </h5>
             <ul className="footer-link-list space-y-3 text-xs sm:text-sm">
               <li>
@@ -79,9 +79,9 @@ export default function Footer() {
               </li>
               <li className="flex items-center gap-2.5 text-slate-400">
                 <svg className="w-4 h-4 text-[#C7FD0D] shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
-                  <path strokeLinecap="round" strokeLinejoin="round" d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                  <path strokeLinecap="round" strokeLinejoin="round" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" />
                 </svg>
-                <span>Serving all 50 U.S. States &amp; Washington, D.C.</span>
+                <span>100% Free &amp; Confidential Evaluation</span>
               </li>
               <li className="text-slate-500 text-xs pt-1">
                 Website: <span className="text-slate-400">https://mvaclaimz.com/</span>

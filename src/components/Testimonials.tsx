@@ -5,37 +5,37 @@ export default function Testimonials() {
   const testimonials = [
     {
       name: 'Mark Thompson',
-      state: 'California • $245,000 Settlement',
+      role: 'Verified Client • Truck Collision',
       quote:
-        'After my truck accident, I didn\'t know where to turn. MVA Claimz connected me with a specialized attorney who fought for every penny. Professional and efficient!',
+        'After my truck accident, I didn\'t know where to turn. MVA Claimz connected me with an accident attorney who fought for every penny. Professional and efficient!',
       photo: '/img/testimonial_photo_1.png',
     },
     {
       name: 'Sarah Williams',
-      state: 'Texas • $180,000 Settlement',
+      role: 'Verified Client • Auto Collision',
       quote:
         'The team made the process so simple. I filled out the form, got a call back within minutes, and they handled everything. I could focus on my recovery while they handled the law.',
       photo: '/img/testimonial_photo_2.png',
     },
     {
       name: 'David Johnson',
-      state: 'Florida • $95,000 Settlement',
+      role: 'Verified Client • Passenger Injury',
       quote:
-        'I was worried about legal fees, but MVA Claimz explained everything clearly. Zero upfront costs and they got me a much higher settlement than I expected. Highly recommend!',
+        'I was worried about legal fees, but MVA Claimz explained everything clearly. Zero upfront costs and they guided me through every step. Highly recommend!',
       photo: '/img/testimonial_photo_3.png',
     },
     {
       name: 'Jennifer Garcia',
-      state: 'Arizona • $120,000 Settlement',
+      role: 'Verified Client • Intersection Crash',
       quote:
-        'Superb service! The communication was excellent throughout. They really care about their clients and make sure you get the medical care you need too.',
+        'Superb service! The communication was excellent throughout. They really care about their clients and make sure you get the support you need.',
       photo: '/img/testimonial_photo_4.png',
     },
     {
       name: 'Michael Reed',
-      state: 'New York • $65,000 Settlement',
+      role: 'Verified Client • Rear-End Accident',
       quote:
-        'Quick, easy, and painless. They took the stress out of my insurance claim and I got a great result. Don\'t handle insurance adjusters on your own!',
+        'Quick, easy, and painless. They took the stress out of my claim and I got a great result. Don\'t handle insurance adjusters on your own!',
       photo: '/img/testimonial_photo_5.png',
     },
   ];
@@ -51,7 +51,7 @@ export default function Testimonials() {
           </h2>
           <div className="title-underline" />
           <p className="text-slate-600 text-base sm:text-lg max-w-2xl mx-auto">
-            Read verified reviews from clients across the country who obtained justice and substantial compensation.
+            Read verified reviews from clients who connected with legal counsel after their accident.
           </p>
         </div>
 
@@ -87,7 +87,7 @@ export default function Testimonials() {
                 </div>
                 <div>
                   <h4 className="text-sm font-black text-[#0C1E36]">{item.name}</h4>
-                  <p className="text-xs text-slate-500 font-semibold">{item.state}</p>
+                  <p className="text-xs text-slate-500 font-semibold">{item.role}</p>
                 </div>
               </div>
             </div>

@@ -4,7 +4,7 @@ export default function WhyChooseUs() {
   const features = [
     {
       title: 'No Upfront Fees',
-      desc: 'Our network works on a contingency basis. You pay nothing out of pocket unless we win your accident settlement.',
+      desc: 'Our network works on a contingency basis. You pay nothing out of pocket unless your attorney resolves your claim.',
       icon: (
         <svg className="w-7 h-7 text-[#0C1E36]" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
           <path strokeLinecap="round" strokeLinejoin="round" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
@@ -12,8 +12,8 @@ export default function WhyChooseUs() {
       ),
     },
     {
-      title: 'Expert Law Firms',
-      desc: 'We match you with highly qualified trial firms having extensive litigation experience against major insurance carriers.',
+      title: 'Experienced Law Firms',
+      desc: 'We match you with qualified attorneys having extensive negotiation and courtroom experience against major insurance carriers.',
       icon: (
         <svg className="w-7 h-7 text-[#0C1E36]" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
           <path strokeLinecap="round" strokeLinejoin="round" d="M3 6l3 1m0 0l-3 9a5.002 5.002 0 006.001 0M6 7l3 9M6 7l6-2m6 2l3-1m-3 1l-3 9a5.002 5.002 0 006.001 0M18 7l3 9m-3-9l-6-2m0-2v2m0 16V5m0 16H9m3 0h3" />
@@ -22,7 +22,7 @@ export default function WhyChooseUs() {
     },
     {
       title: 'Rapid Processing',
-      desc: 'Intake systems evaluate your claim automatically so you can be connected with a legal advocate in minutes.',
+      desc: 'Intake systems evaluate your claim automatically so you can be connected with a legal advocate quickly.',
       icon: (
         <svg className="w-7 h-7 text-[#0C1E36]" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
           <path strokeLinecap="round" strokeLinejoin="round" d="M13 10V3L4 14h7v7l9-11h-7z" />
@@ -30,8 +30,8 @@ export default function WhyChooseUs() {
       ),
     },
     {
-      title: 'Maximum Recovery',
-      desc: 'Statistics prove represented claimants receive significantly higher settlement payouts than individuals who settle alone.',
+      title: 'Dedicated Advocacy',
+      desc: 'Experienced attorneys fight on your behalf against insurance adjusters who attempt to undervalue your damages.',
       icon: (
         <svg className="w-7 h-7 text-[#0C1E36]" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
           <path strokeLinecap="round" strokeLinejoin="round" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" />
@@ -84,19 +84,19 @@ export default function WhyChooseUs() {
 
                 <div className="border-b border-white/10 pb-5">
                   <span className="text-4xl sm:text-5xl font-black text-[#C7FD0D] block tracking-tight">
-                    $500M+
+                    $0 Upfront
                   </span>
                   <span className="text-sm font-semibold text-slate-300">
-                    Total Compensation Recovered by Attorneys
+                    Contingency Basis — Zero Out-of-Pocket Fees
                   </span>
                 </div>
 
                 <div>
                   <span className="text-4xl sm:text-5xl font-black text-white block tracking-tight">
-                    50 States
+                    24 / 7
                   </span>
                   <span className="text-sm font-semibold text-slate-300">
-                    Nationwide Legal Representation Coverage
+                    Dedicated Case Review &amp; Legal Intake
                   </span>
                 </div>
               </div>
